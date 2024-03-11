@@ -1,0 +1,222 @@
+.CHANGE-PASSWORD {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .CHANGE-PASSWORD .div {
+    background: radial-gradient(
+      50% 50% at 50% 50%,
+      rgb(0, 96.36, 255) 0%,
+      rgb(0, 53.81, 142.38) 56.72%,
+      rgb(0.33, 24.59, 78.63) 95.77%
+    );
+    background-color: rgba(255, 255, 255, 1);
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .CHANGE-PASSWORD .microsoftteams-image {
+    height: 75px;
+    left: 72px;
+    object-fit: cover;
+    position: absolute;
+    top: 51px;
+    width: 279px;
+  }
+  
+  .CHANGE-PASSWORD .overlap-group {
+    background: linear-gradient(180deg, rgb(3, 32, 91) 25.39%, rgb(6.36, 67.87, 193) 100%);
+    border-radius: 34px;
+    height: 800px;
+    left: 538px;
+    position: absolute;
+    top: 170px;
+    width: 655px;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper {
+    color: #ffffffd4;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 110px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 90px;
+    white-space: nowrap;
+    width: 443px;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-2 {
+    color: #ffffff6b;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 229px;
+    white-space: nowrap;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-3 {
+    color: #ffffff6b;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 343px;
+    white-space: nowrap;
+  }
+  
+  .CHANGE-PASSWORD .line {
+    height: 2px;
+    left: 93px;
+    position: absolute;
+    top: 301px;
+    width: 478px;
+  }
+  
+  .CHANGE-PASSWORD .img {
+    height: 2px;
+    left: 93px;
+    position: absolute;
+    top: 406px;
+    width: 478px;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-4 {
+    color: #f64c71;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 450px;
+    white-space: nowrap;
+  }
+  
+  .CHANGE-PASSWORD .overlap {
+    height: 70px;
+    left: 93px;
+    position: absolute;
+    top: 512px;
+    width: 502px;
+  }
+  
+  .CHANGE-PASSWORD .overlap-2 {
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 478px;
+  }
+  
+  .CHANGE-PASSWORD .line-2 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 478px;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-5 {
+    color: #f64c71cf;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-6 {
+    color: #fbfbfbbd;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 268px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 25px;
+    white-space: nowrap;
+    width: 234px;
+  }
+  
+  .CHANGE-PASSWORD .div-wrapper {
+    background-image: url(./rectangle-10.svg);
+    background-size: 100% 100%;
+    height: 58px;
+    left: 235px;
+    position: absolute;
+    top: 630px;
+    width: 190px;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-7 {
+    color: #ffffffcc;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 8px;
+    white-space: nowrap;
+    width: 120px;
+  }
+  
+  .CHANGE-PASSWORD .overlap-3 {
+    height: 57px;
+    left: 1502px;
+    position: absolute;
+    top: 61px;
+    width: 120px;
+  }
+  
+  .CHANGE-PASSWORD .rectangle {
+    height: 57px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .CHANGE-PASSWORD .text-wrapper-8 {
+    color: #ffffffcc;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 8px;
+    white-space: nowrap;
+    width: 120px;
+  }
+  

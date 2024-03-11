@@ -1,0 +1,242 @@
+.LOGIN-PASSWPRD {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .LOGIN-PASSWPRD .div {
+    background-color: rgba(255, 255, 255, 1);
+    background: radial-gradient(
+      50% 50% at 50% 50%,
+      rgb(0, 96.36, 255) 0%,
+      rgb(0, 53.81, 142.38) 56.72%,
+      rgb(0.33, 24.59, 78.63) 95.77%
+    );
+    width: 1728px;
+    height: 1117px;
+    position: relative;
+  }
+  
+  .LOGIN-PASSWPRD .microsoftteams-image {
+    position: absolute;
+    width: 279px;
+    height: 75px;
+    top: 51px;
+    left: 72px;
+    object-fit: cover;
+  }
+  
+  .LOGIN-PASSWPRD .overlap-group {
+    position: absolute;
+    width: 655px;
+    height: 800px;
+    top: 170px;
+    left: 538px;
+    border-radius: 34px;
+    background: linear-gradient(180deg, rgb(3, 32, 91) 25.39%, rgb(6.36, 67.87, 193) 100%);
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper {
+    position: absolute;
+    width: 235px;
+    top: 102px;
+    left: 213px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffffd4;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper-2 {
+    position: absolute;
+    top: 252px;
+    left: 144px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff6b;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .LOGIN-PASSWPRD .line {
+    top: 317px;
+    left: 89px;
+    position: absolute;
+    width: 478px;
+    height: 2px;
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper-3 {
+    position: absolute;
+    top: 366px;
+    left: 144px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #f64c71;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .LOGIN-PASSWPRD .overlap {
+    position: absolute;
+    width: 478px;
+    height: 41px;
+    top: 431px;
+    left: 89px;
+  }
+  
+  .LOGIN-PASSWPRD .img {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 478px;
+    height: 2px;
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper-4 {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #f64c71cf;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .LOGIN-PASSWPRD .user {
+    position: absolute;
+    width: 39px;
+    height: 40px;
+    top: 253px;
+    left: 89px;
+    object-fit: cover;
+  }
+  
+  .LOGIN-PASSWPRD .padlock {
+    position: absolute;
+    width: 36px;
+    height: 40px;
+    top: 367px;
+    left: 93px;
+    object-fit: cover;
+  }
+  
+  .LOGIN-PASSWPRD .div-wrapper {
+    position: absolute;
+    width: 190px;
+    height: 58px;
+    top: 596px;
+    left: 233px;
+    background-image: url(./img/rectangle-10.svg);
+    background-size: 100% 100%;
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper-5 {
+    position: absolute;
+    width: 120px;
+    top: 8px;
+    left: 35px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffffcc;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper-6 {
+    position: absolute;
+    width: 234px;
+    top: 478px;
+    left: 343px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #fbfbfbbd;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .LOGIN-PASSWPRD .overlap-2 {
+    position: absolute;
+    width: 655px;
+    height: 60px;
+    top: 680px;
+    left: 0;
+    background-color: #f6f9ff26;
+  }
+  
+  .LOGIN-PASSWPRD .p {
+    position: absolute;
+    width: 527px;
+    top: 9px;
+    left: 4px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffffa6;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .LOGIN-PASSWPRD .image {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 20px;
+    left: 613px;
+    object-fit: cover;
+  }
+  
+  .LOGIN-PASSWPRD .overlap-3 {
+    position: absolute;
+    width: 120px;
+    height: 57px;
+    top: 61px;
+    left: 1502px;
+  }
+  
+  .LOGIN-PASSWPRD .rectangle {
+    position: absolute;
+    width: 112px;
+    height: 57px;
+    top: 0;
+    left: 4px;
+  }
+  
+  .LOGIN-PASSWPRD .text-wrapper-7 {
+    position: absolute;
+    width: 120px;
+    top: 8px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffffcc;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
