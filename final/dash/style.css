@@ -1,0 +1,42 @@
+/* Main frame styles */
+.main-frame {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #0060FF 0%, #00368E 28%, #00194F 48%) bottom right / 51% 51% no-repeat,
+                linear-gradient(to bottom left, #0060FF 0%, #00368E 28%, #00194F 48%) bottom left / 51% 51% no-repeat,
+                linear-gradient(to top left, #0060FF 0%, #00368E 28%, #00194F 48%) top left / 51% 51% no-repeat,
+                linear-gradient(to top right, #0060FF 0%, #00368E 28%, #00194F 48%) top right / 51% 51% no-repeat;
+    position: relative;
+  }
+  
+  /* Container styles */
+  .container {
+    width: 389px;
+    height: 1027px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(5, 25, 73, 0.54);
+    position: absolute;
+    top: 20px; /* Adjust as needed */
+    left: 20px; /* Adjust as needed */
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 768px) {
+    .main-frame {
+      height: auto;
+      padding: 20px; /* Adjust as needed */
+    }
+  
+    .container {
+      width: 100%; /* Adjust as needed */
+      height: auto; /* Adjust as needed */
+      position: static;
+      margin-bottom: 20px; /* Adjust as needed */
+      border-radius: 0;
+    }
+  }
+  
